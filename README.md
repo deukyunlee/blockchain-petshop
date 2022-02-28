@@ -28,7 +28,6 @@
 
 ```
   truffle develop
-  
 ```
 4. Compile the smart contracts.
 

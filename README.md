@@ -21,31 +21,30 @@
 2. Clone this repo.
 
 3. Run the dev console.
-<pre>
-<code>
+```
   truffle develop
-</code>
-</pre>  
+```
 4. Compile the smart contracts.
-
+```
   truffle.cmd compile
-  
+```
   > on Windows
-
+```
   truffle compile
-  
+```  
   > on macOS
 
 5. Migrate the contracts.
-
+```
   truffle.cmd migrate
-  
+```  
   > on Windows
-
+```
   truffle migrate
-  
+```  
   > on macOS
 
 6. Run the server
-
+```
   npm run dev
+```

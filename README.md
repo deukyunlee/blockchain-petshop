@@ -1,35 +1,50 @@
-# blockchain-petshop
+# Blockchain PetShop using Solidity
+
+
+![image](https://user-images.githubusercontent.com/87864058/155996028-46228b3e-148e-4645-bbba-9ee1575d504d.png)
+
 
 ## Purpose
 
 > *Note:* The purpose of this project is to have a better understanding of block-chain using Solidity (smart contract)
 
-<img width="653" alt="image" src="https://user-images.githubusercontent.com/87864058/155993139-25315dd1-5ffc-46db-91d4-b9bf1960cf52.png">
-
 
 > *Required:* Ganache, MetaMask
 
 
-## Migration
+## Installation
 
-Once you compile & migrate the project, you can check smart contract hash just as same as on CLI. 
+1. Install Truffle globally.
 
-<img width="652" alt="image" src="https://user-images.githubusercontent.com/87864058/155994114-f0eab3af-c758-4209-83e1-430b2bae11d1.png">
+  npm i -g truffle
 
-<img width="652" alt="image" src="https://user-images.githubusercontent.com/87864058/155994011-7e0e2d25-9547-4580-8fd8-8d1b68daf5ea.png">
+2. Clone this repo.
 
-> Once you compile & migrate the project, you can check smart contract hash just as same as on CLI. 
+3. Run the dev console.
 
-
-
-
-## Result
-
-![image](https://user-images.githubusercontent.com/87864058/155996028-46228b3e-148e-4645-bbba-9ee1575d504d.png)
-
-> Everytime you adopt the animal, the transaction has to get your approval by clicking on approve button in Pop-ups
+  truffle develop
 
 
-## How To Start
+4. Compile the smart contracts.
 
-npm run dev
+  truffle.cmd compile
+  
+  > on Windows
+
+  truffle compile
+  
+  > on macOS
+
+5. Migrate the contracts.
+
+  truffle.cmd migrate
+  
+  > on Windows
+
+  truffle migrate
+  
+  > on macOS
+
+6. Run the server
+
+  npm run dev

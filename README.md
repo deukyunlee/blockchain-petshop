@@ -15,7 +15,6 @@
 ## Installation
 
 1. Install Truffle globally.
-
 <pre>
 <code>
   npm i -g truffle
@@ -24,10 +23,11 @@
 2. Clone this repo.
 
 3. Run the dev console.
-
+<pre>
+<code>
   truffle develop
-
-
+</code>
+</pre>  
 4. Compile the smart contracts.
 
   truffle.cmd compile

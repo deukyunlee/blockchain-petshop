@@ -15,34 +15,32 @@
 ## Installation
 
 1. Install Truffle globally.
+
 ```
   npm i -g truffle
 ```
+
 2. Clone this repo.
 
+
 3. Run the dev console.
+
 ```
   truffle develop
+  
 ```
 4. Compile the smart contracts.
-```
-  truffle.cmd compile
-```
-  > on Windows
+
 ```
   truffle compile
 ```  
-  > on macOS
 
 5. Migrate the contracts.
-```
-  truffle.cmd migrate
-```  
-  > on Windows
+
 ```
   truffle migrate
 ```  
-  > on macOS
+
 
 6. Run the server
 ```

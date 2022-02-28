@@ -4,13 +4,13 @@
 
 > *Note:* The purpose of this project is to have a better understanding of block-chain using Solidity (smart contract)
 
-> *Required:* Ganache, MetaMask
-
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/87864058/155993139-25315dd1-5ffc-46db-91d4-b9bf1960cf52.png">
 
 
+> *Required:* Ganache, MetaMask
 
-<img width="653" alt="image" src="https://user-images.githubusercontent.com/87864058/155993401-fec1488c-c577-4ec1-8972-a866245be10f.png">
+
+## migration
 
 Once you compile & migrate the project, you can check smart contract hash just as same as on CLI. 
 

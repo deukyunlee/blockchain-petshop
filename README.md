@@ -15,11 +15,9 @@
 ## Installation
 
 1. Install Truffle globally.
-<pre>
-<code>
+```
   npm i -g truffle
-</code>
-</pre>  
+```
 2. Clone this repo.
 
 3. Run the dev console.

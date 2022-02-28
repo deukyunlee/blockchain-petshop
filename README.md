@@ -10,7 +10,7 @@
 > *Required:* Ganache, MetaMask
 
 
-## migration
+## Migration
 
 Once you compile & migrate the project, you can check smart contract hash just as same as on CLI. 
 
@@ -21,3 +21,12 @@ Once you compile & migrate the project, you can check smart contract hash just a
 
 And everytime you adopt the animal, the transaction has to get your approval by clicking on approve button in Pop-ups
 
+
+## Result
+
+![image](https://user-images.githubusercontent.com/87864058/155996028-46228b3e-148e-4645-bbba-9ee1575d504d.png)
+
+
+## How To Start
+
+npm run dev
